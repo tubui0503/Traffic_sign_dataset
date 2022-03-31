@@ -1,1 +1,3 @@
 The road narrows right
+Go straight or turn right
+Turn left, go around to the left
